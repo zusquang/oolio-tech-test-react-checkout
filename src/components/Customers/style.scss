@@ -1,0 +1,18 @@
+.customer {
+  font-family: inherit;
+
+  label {
+    font-weight: bold;
+    font-size: 16px;
+    margin-right: 20px;
+  }
+
+  select {
+    border: navajowhite;
+    background: #ebebeb;
+    padding: 5px 15px 5px 5px;
+    border-radius: 5px;
+    width: 120px;
+    font-size: 14px;
+  }
+}

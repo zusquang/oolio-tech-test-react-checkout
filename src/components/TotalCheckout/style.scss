@@ -1,0 +1,21 @@
+.total-origin {
+  color: red;
+}
+
+.total-detail {
+  margin-top: 20px;
+
+  .total-text {
+    display: inline-block;
+    width: 120px;
+  }
+
+  .total-amount {
+    font-weight: bold;
+  }
+}
+
+.total-current,
+.total-discount {
+  color: rgb(0, 103, 0);
+}
